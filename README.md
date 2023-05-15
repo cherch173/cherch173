@@ -3,7 +3,8 @@
 ##### Welcome my friends...welcome, to my machines.
 ###### Where did you _click_? It's alright we told ya where to click.
 ***
-##### Salut, ### I'm Brian.
+##### Salut, 
+### I'm Brian.
 
 #### [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
 
