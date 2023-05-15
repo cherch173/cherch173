@@ -4,7 +4,7 @@
 ***
 ***
 ### Salut, I'm **Brian**.
-#### [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
+#### Here's my [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
 
 ![Image](https://avatars.githubusercontent.com/u/130800271?v=4)
 
