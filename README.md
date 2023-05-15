@@ -1,7 +1,7 @@
 ![Image](https://i.pinimg.com/originals/92/b1/a5/92b1a50122d10fafad7e9942f4af4c63.gif)
 ***
 ##### Welcome my friends...welcome, to my machines.
-###### Where did you _click_? It's alright we told ya where to click.
+###### Where did you _click_? It's alright we told ya where to [click](https://www.linkedin.com/in/bcherchiglia).
 ***
 ##### Salut, 
 ### I'm Brian.
