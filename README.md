@@ -16,7 +16,7 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Feel free to enjoy the code I've already posted of some templates for [Air Hockey](https://boomtown.surge.sh), Connect Four, Tic Tac Toe, Pong and more.
+Feel free to enjoy the titles I've already posted such as [BOOMTOWN - Air Hockey](https://boomtown.surge.sh), Connect Four, Tic Tac Toe, Pong and more.
 
 ***
 ***
