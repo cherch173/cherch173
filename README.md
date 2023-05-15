@@ -1,12 +1,12 @@
 ![Image](https://i.pinimg.com/originals/92/b1/a5/92b1a50122d10fafad7e9942f4af4c63.gif)
-***
 ##### Welcome my friends...welcome, to my machines.
 ###### Where did you _click_? It's alright we told ya where to [click](https://www.linkedin.com/in/bcherchiglia).
 ***
-##### Salut, 
-### I'm Brian.
-
+***
+### Salut, I'm **Brian**.
 #### [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
+
+![Image](https://avatars.githubusercontent.com/u/130800271?v=4)
 
 I'm a creative, **software engineer** and aspiring **game designer** coming from a storied path in the Music Industry as both a performing artist and a music publisher. 
 
