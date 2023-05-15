@@ -8,7 +8,7 @@
 
 #### [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
 
-I'm a creative, software engineer and aspiring game designer coming from a storied path in the Music Industry as both a performing artist and a music publisher. 
+I'm a creative, **software engineer** and aspiring **game designer** coming from a storied path in the Music Industry as both a performing artist and a music publisher. 
 
 Through sync licensing, I helped to soundtrack some of the highest profile video game franchises, with titles including (but not limited to): _Grand Theft Auto_, _FIFA_, _Madden_ & countless others -- my favorite being the trailer for **_Fallout 3_** which used the song "I Don't Want to Set the World on Fire" by the Ink Spots.
 
