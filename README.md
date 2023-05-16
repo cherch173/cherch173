@@ -20,7 +20,7 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 
 Feel free to enjoy the titles I've already Deployed such as: 
 - [BOOMTOWN - PONG Edition](https://boomtownpong.surge.sh/)
-- [Connect Four, Charlie Murphy](https://connect4charliemurphy.surge.sh/)
+- [CONNECT FOUR, CHARLIE MURPHY](https://connect4charliemurphy.surge.sh/)
 - [BOOMTOWN - Air Hockey](https://boomtown.surge.sh) 
 - [GRITTY - Tic Tac Toe](https://gritty.surge.sh/) 
 
