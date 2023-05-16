@@ -20,7 +20,7 @@ Feel free to enjoy the titles I've already posted such as [BOOMTOWN - PONG Editi
 
 ***
 ***
-- 🔭 I’m currently working on ... version 2.0 of BOOMTOWN - Air Hockey, my defense-centric approach to Air Hockey
+- 🔭 I’m currently working on ... version 2.0 of BOOMTOWN, my defense-centric approach to Air Hockey
 - 🌱 I’m currently learning Node.js, Express, Python, Django and Mongo.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
 - 💬 Ask me about my methodologies and my catalog
