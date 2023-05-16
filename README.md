@@ -35,4 +35,3 @@ and more.
 - 💬 Ask me about my methodologies and my catalog
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
 - ⚡ Fun fact: I absolutely love vintage guitars, soul food, and a good pourover (black, no sugar).
--->
