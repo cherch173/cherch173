@@ -18,10 +18,17 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
 
-Feel free to enjoy the titles I've already posted such as [BOOMTOWN - PONG Edition](https://boomtownpong.surge.sh/), [Connect Four, Charlie Murphy](https://connect4charliemurphy.surge.sh/),[BOOMTOWN - Air Hockey](https://boomtown.surge.sh), [GRITTY - Tic Tac Toe](https://gritty.surge.sh/) and more.
+Feel free to enjoy the titles I've already Deployed such as: 
+- [BOOMTOWN - PONG Edition](https://boomtownpong.surge.sh/)
+- [Connect Four, Charlie Murphy](https://connect4charliemurphy.surge.sh/)
+- [BOOMTOWN - Air Hockey](https://boomtown.surge.sh) 
+- [GRITTY - Tic Tac Toe](https://gritty.surge.sh/) 
+
+and more.
 
 ***
 ***
+
 - 🔭 I’m currently working on ... version 2.0 of BOOMTOWN, my defense-centric approach to Air Hockey
 - 🌱 I’m currently learning Node.js, Express, Python, Django and Mongo.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
