@@ -7,7 +7,7 @@
 ### I'm **Brian**.
 #### Here's my [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
 
-![Image](https://avatars.githubusercontent.com/u/130800271?v=4)
+<!-- ![Image](https://avatars.githubusercontent.com/u/130800271?v=4) -->
 
 I'm a creative and **software engineer** with a passion for **game design** coming from a background in the Music Industry as both a performing artist and a music publisher. 
 
