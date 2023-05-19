@@ -4,12 +4,12 @@
 ###### Where did you _click_? It's alright we told ya where to [click](https://www.linkedin.com/in/bcherchiglia).
 ***
 ***
-### Salut, I'm **Brian**.
+### I'm **Brian**.
 #### Here's my [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
 
 ![Image](https://avatars.githubusercontent.com/u/130800271?v=4)
 
-I'm a creative, **software engineer** and aspiring **game designer** coming from a storied path in the Music Industry as both a performing artist and a music publisher. 
+I'm a creative and **software engineer** with a passion for **game design** coming from a background in the Music Industry as both a performing artist and a music publisher. 
 
 Through sync licensing, I helped to soundtrack some of the highest profile video game franchises, with titles including (but not limited to): _Grand Theft Auto_, _FIFA_, _Madden_ & countless others -- my favorite being the trailer for **_Fallout 3_** which used the song "I Don't Want to Set the World on Fire" by _the Ink Spots_.
 
