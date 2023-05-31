@@ -17,8 +17,10 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
+Please feel free to both join (via Google OAuth)and enjoy my new app **SLICE** which is a comprehensive Power Rankings style interactive Fullstack Application to rate and archive the **best pizza in NYC**
+- [SLICE](https://slice.herokuapp.com/)
 
-Feel free to enjoy the titles I've already Deployed such as: 
+Also, feel free to enjoy the browser game titles I've already deployed such as: 
 - [BOOMTOWN - PONG Edition](https://boomtownpong.surge.sh/)
 - [CONNECT FOUR, CHARLIE MURPHY](https://connect4charliemurphy.surge.sh/)
 - [BOOMTOWN - Air Hockey](https://boomtown.surge.sh) 
@@ -29,8 +31,8 @@ and more.
 ***
 ***
 
-- 🔭 I’m currently working on ... version 2.0 of BOOMTOWN, my defense-centric approach to Air Hockey
-- 🌱 I’m currently learning Node.js, Express, Python, Django and Mongo.
+- 🔭 I’m currently working on ... **[SLICE](https://slice.herokuapp.com)**, my Fullstack Web App designed from scratch that is a **user-based Power Rankings Hub for NYC Pizzerias** and version 2.0 of BOOMTOWN, my defense-centric approach to Air Hockey
+- 🌱 I’m currently learning Node.js, Express, Python, Django and MongoDB/Mongoose.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
 - 💬 Ask me about my methodologies and my catalog
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
