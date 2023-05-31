@@ -31,7 +31,7 @@ and more.
 ***
 ***
 
-- 🔭 I’m currently working on ... **[SLICE](https://slice.herokuapp.com)**: my Fullstack Web App designed from scratch that is a **user-based Power Rankings Hub for NYC Pizzerias** and version 2.0 of BOOMTOWN: my defense-centric approach to Air Hockey
+- 🔭 I’m currently working on ... **[SLICE](https://slice.herokuapp.com)**: my Fullstack Web App designed from scratch that is a **user-based Power Rankings Hub for NYC Pizzerias** and version 2.0 of [BOOMTOWN](https://boomtownpong.surge.sh/): my defense-centric approach to Air Hockey
 - 🌱 I’m currently learning Node.js, Express, Python, Django and MongoDB/Mongoose.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
 - 💬 Ask me about my methodologies and my catalog
