@@ -17,7 +17,7 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
-Please feel free to both join (via Google OAuth)and enjoy my new app **SLICE** which is a comprehensive Power Rankings style interactive Fullstack Application to rate and archive the **best pizza in NYC**
+Please feel free to join (via Google OAuth) and enjoy my new app **SLICE** which is a comprehensive Power Rankings style interactive Fullstack Application to rate and archive the **best pizza in NYC**
 - [SLICE](https://slice.herokuapp.com/)
 
 Also, feel free to enjoy the browser game titles I've already deployed such as: 
