@@ -36,4 +36,4 @@ and more.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
 - 💬 Ask me about my methodologies and my catalog
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
-- ⚡ Fun fact: I absolutely love vintage guitars, soul food, and a good pourover (black, no sugar).
+- ⚡ Fun fact: I adore vintage guitars, soul food, and make a mean pourover (black, no sugar).
