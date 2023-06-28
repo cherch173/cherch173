@@ -17,7 +17,12 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
-Please feel free to join and enjoy my new app **SLICE** which is a comprehensive Power Rankings style interactive Fullstack Application to rate and archive the **best pizza in NYC**
+Please feel free to join and enjoy my new web apps: 
+
+**CLEARANCE** which is a fully-interactive user-focused hub for confirmed UAP sightings built using Python, Django & postgreSQL; styled with Materialize.
+- [CLEARANCE](https://clearance-b56453d7410f.herokuapp.com/)
+
+**SLICE** which is a comprehensive Power Rankings style interactive Fullstack Application to rate and archive the **best pizza in NYC**
 - [SLICE](https://slice.herokuapp.com/)
 
 Also, feel free to enjoy the browser game titles I've already deployed such as: 
@@ -32,7 +37,7 @@ and more.
 ***
 
 - 🔭 I’m currently working on ... **[SLICE](https://slice.herokuapp.com)**: my **user-based** fullstack web app that acts as a **Power Rankings Hub** for NYC Pizzerias and version 2.0 of [BOOMTOWN](https://boomtownpong.surge.sh/): my defense-centric approach to Air Hockey
-- 🌱 I’m currently learning Node.js, Express, Python, Django and MongoDB/Mongoose.
+- 🌱 I’m currently learning React, React Native, Azure & TypeScript.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
 - 💬 Ask me about my methodologies and my catalog
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
