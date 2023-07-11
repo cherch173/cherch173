@@ -19,7 +19,7 @@ Within my first week of studying Software Engineering I'd already built _over_ *
  
 Please feel free to join and enjoy my new web apps: 
 
-**SMOKE** my intellectual property focused social network for creatives.
+**SMOKE** my intellectual property focused social network for creatives built using the MERN Stack (MongoDB / Express.js / Node.js / React).
 - [SMOKE](http://www.github.com/cherch173/smoke)
 
 **CLEARANCE** which is a fully-interactive user-focused hub for confirmed UAP sightings built using Python, Django & postgreSQL; styled with Materialize.
