@@ -20,7 +20,7 @@ Within my first week of studying Software Engineering I'd already built _over_ *
 Please feel free to join and enjoy my new web apps: 
 
 **SMOKE** my intellectual property focused social network for creatives built using the MERN Stack (MongoDB / Express.js / Node.js / React).
-- [SMOKE](http://www.github.com/cherch173/smoke)
+- [SMOKE](https://smokeapp-4be26bed9b46.herokuapp.com/)
 
 **CLEARANCE** which is a fully-interactive user-focused hub for confirmed UAP sightings built using Python, Django & postgreSQL; styled with Materialize.
 - [CLEARANCE](https://clearance-b56453d7410f.herokuapp.com/)
@@ -39,9 +39,8 @@ and more.
 ***
 ***
 
-- 🔭 I’m currently working on ... **[SLICE](https://slice.herokuapp.com)**: my **user-based** fullstack web app that acts as a **Power Rankings Hub** for NYC Pizzerias and version 2.0 of [BOOMTOWN](https://boomtownpong.surge.sh/): my defense-centric approach to Air Hockey
-- 🌱 I’m currently learning React, React Native, Azure & TypeScript.
+- 🔭 I’m currently working on ... version 2.0 of [SMOKE](https://smokeapp-4be26bed9b46.herokuapp.com/) my self-designed social network for Intellectual Property & Creatives version 3.0 of **[SLICE](https://slice.herokuapp.com)**: my **user-based** fullstack web app that acts as a **Power Rankings Hub** for NYC Pizzerias.
+- 🌱 I’m currently learning React Native, Rust, C# & TypeScript.
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering
-- 💬 Ask me about my methodologies and my catalog
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
 - ⚡ Fun fact: I adore vintage guitars, love soul food, and make a mean pourover (black, no sugar).
