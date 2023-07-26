@@ -13,7 +13,7 @@ I'm a creative and **software engineer** with a passion for **web application an
 
 Through sync licensing, I helped to soundtrack some of the highest profile video game franchises, with titles including (but not limited to): _Grand Theft Auto_, _FIFA_, _Madden_ & countless others -- my favorite being the trailer for **_Fallout 3_** which used the song "I Don't Want to Set the World on Fire" by _the Ink Spots_.
 
-Within my first week of studying Software Engineering I'd already built _over_ **5 browser-based games** and **4 fullstack web applications** using a diverse array of languages, frameworks and databases. In 2023, I graduated General Assembly's Software Engineering 2.0 Immersive (which entailed 420 hours of real-world programming experience) and have quickly found refuge in the endless creative possibilities of programming and find myself composing new projects constantly.
+Within my first few months of studying Software Engineering I'd already built _over_ **5 browser-based games** and **4 fullstack web applications** using a diverse array of languages, frameworks and databases. In 2023, I graduated General Assembly's Software Engineering 2.0 Immersive (which entailed 420 hours of real-world programming experience) and have quickly found refuge in the endless creative possibilities of programming and find myself composing new projects constantly.
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
