@@ -13,11 +13,11 @@ I'm a creative and **software engineer** with a passion for **web application an
 
 Through sync licensing, I helped to soundtrack some of the highest profile video game franchises, with titles including (but not limited to): _Grand Theft Auto_, _FIFA_, _Madden_ & countless others -- my favorite being the trailer for **_Fallout 3_** which used the song "I Don't Want to Set the World on Fire" by _the Ink Spots_.
 
-Within my first week of studying Software Engineering I'd already built _over_ **5 browser-based games** using just HTML, CSS & Javascript. I'm currently enrolled in General Assembly's Software Engineering 2.0 Immersive and have quickly found refuge in the endless possibilities of creative programming and find myself composing new code constantly.
+Within my first week of studying Software Engineering I'd already built _over_ **5 browser-based games** and **4 fullstack web applications** using a diverse array of languages, frameworks and databases. In 2023, I graduated General Assembly's Software Engineering 2.0 Immersive (which entailed 420 hours of real-world programming experience) and have quickly found refuge in the endless creative possibilities of programming and find myself composing new projects constantly.
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
-Please feel free to join and enjoy my new web apps: 
+Please feel free to enjoy my newly deployed web applications: 
 
 **SMOKE** my intellectual property focused social network for creatives built using the MERN Stack (MongoDB / Express.js / Node.js / React).
 - [SMOKE](https://smokeapp-4be26bed9b46.herokuapp.com/)
