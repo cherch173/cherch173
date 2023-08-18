@@ -11,7 +11,9 @@
 
 I'm a **software engineer** and **full stack web developer** coming from a background in the Music Industry as both a performing artist and a music publisher. 
 
-I helped to soundtrack titles and trailers for several major video game franchises such as _Grand Theft Auto_, _Fallout_, the _EA Sports_ catalog (_FIFA_, _Madden_), _NBA 2k_, _Guitar Hero_ and more. 
+I've been fortunate enough to tour all over this beautiful planet with tremendous artistic and creative company, helped to soundtrack titles and trailers for several major video game franchises such as _Grand Theft Auto_, _Fallout_, the _EA Sports_ catalog (_FIFA_, _Madden_), _NBA 2k_, _Guitar Hero_, founded a few startups, curated a few festivals and somehow got endorsed by _Gibson_ & _Telefunken_ along the way. 
+
+As a Dev? I'm constantly coding. 
 
 I've developed and deployed several full stack web applications using a diverse array of tech stacks, methodologies, languages and frameworks and I'm building and/or working on something new every day. In addition -- in 2023, I graduated from **General Assembly's** _Software Engineering 2.0 Immersive_ (which entailed 420 hours of real-world programming experience, work-based problems and application design). The bootcamp provided me with an incredible amount of technical knowledge and insight; allowing me to sharpen and refine my development skills.
 
