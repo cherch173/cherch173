@@ -15,7 +15,7 @@ I've been fortunate enough to tour all over this beautiful planet with tremendou
 
 As a Dev? I'm constantly coding. 
 
-I've developed and deployed several full stack web applications using a diverse array of tech stacks, methodologies, languages and frameworks and I'm building and/or working on something new every day. In addition -- in 2023, I graduated from **General Assembly's** _Software Engineering 2.0 Immersive_ (which entailed 420 hours of real-world programming experience, work-based problems and application design). The bootcamp provided me with an incredible amount of technical knowledge and insight; allowing me to sharpen and refine my development skills.
+I've developed and deployed several full stack web applications using a diverse array of tech stacks, methodologies, languages and frameworks -- I'm building and/or working on something new every day. In addition, in 2023 I graduated from **General Assembly's** _Software Engineering 2.0 Immersive_ (which entailed 420 hours of real-world programming experience, work-based problems and application design). The bootcamp provided me with an incredible amount of technical knowledge and insight; allowing me to sharpen and refine my development skills.
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
