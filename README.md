@@ -9,16 +9,19 @@
 
 <!-- ![Image](https://avatars.githubusercontent.com/u/130800271?v=4) -->
 
-I'm a creative and **software engineer** with a passion for **web application development and game design** coming from a background in the Music Industry as both a performing artist and a music publisher. 
+I'm a **software engineer** and **full stack web developer** coming from a background in the Music Industry as both a performing artist and a music publisher. 
 
-Through sync licensing, I helped to soundtrack some of the highest profile video game franchises, with titles including (but not limited to): _Grand Theft Auto_, _FIFA_, _Madden_ & countless others -- my favorite being the trailer for **_Fallout 3_** which used the song "I Don't Want to Set the World on Fire" by _the Ink Spots_.
+I helped to soundtrack titles and trailers for several major video game franchises such as _Grand Theft Auto_, _Fallout_, the _EA Sports_ catalog (_FIFA_, _Madden_), _NBA 2k_, _Guitar Hero_ and more. 
 
-Within my first few months of studying Software Engineering I'd already built _over_ **5 browser-based games** and **4 fullstack web applications** using a diverse array of languages, frameworks and databases. In 2023, I graduated General Assembly's Software Engineering 2.0 Immersive (which entailed 420 hours of real-world programming experience) and have quickly found refuge in the endless creative possibilities of programming and find myself composing new projects constantly.
+I've developed and deployed several full stack web applications using a diverse array of tech stacks (my favorite being **React.js** at the moment), methodologies, languages and frameworks including those showcased here, as well as countless others.
 
 ![Image](https://media2.giphy.com/media/jnUIIl07N6KFpHl3DH/giphy.gif?cid=ecf05e47fxvd614005bf7cknw7m9o6cobjw1771uxaxdqmoi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
 Please feel free to enjoy my newly deployed web applications: 
 
+**MEDS - Official Website** the official website for NYC psych band **Meds**. Built entirely in React.js and NODE.js.
+- [MEDS](https://medsmusic.com/)
+- 
 **SMOKE** my intellectual property focused social network for creatives built using the MERN Stack (MongoDB / Express.js / Node.js / React).
 - [SMOKE](https://smokeapp-4be26bed9b46.herokuapp.com/)
 
@@ -31,16 +34,14 @@ Please feel free to enjoy my newly deployed web applications:
 Also, feel free to enjoy the browser game titles I've already deployed such as: 
 - [GRITTY - Tic Tac Toe](https://gritty.surge.sh/) 
 - [CONNECT FOUR, CHARLIE MURPHY](https://connect4charliemurphy.surge.sh/)
-- [BOOMTOWN - PONG Edition](https://boomtownpong.surge.sh/)
-- [BOOMTOWN - Air Hockey](https://boomtown.surge.sh) 
 
 and more.
 
 ***
 ***
 
-- 🔭 I’m currently working on ... version 2.0 of **[SMOKE](https://smokeapp-4be26bed9b46.herokuapp.com/)**: my self-designed social network for Intellectual Property & Creatives version 3.0 of **[SLICE](https://slice.herokuapp.com)**: my **user-based** fullstack web app that acts as a **Power Rankings Hub** for NYC Pizzerias.
-- 🌱 I’m currently learning React Native, Rust, C# & TypeScript.
-- 🤔 I’m looking for help with finding my first full-time role in Software Engineering
+- 🔭 I’m currently working on expanding my portfolio and diversifying my arsenal of frameworks and languages.
+- 🌱 I’m currently learning React Native & TypeScript. I'm also delving into Machine Learning and AI.
+- 🤔 I’m looking for help with finding my first full-time role in Software Engineering outside of freelancing.
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
 - ⚡ Fun fact: I adore vintage guitars, love soul food, and make a mean pourover (black, no sugar).
