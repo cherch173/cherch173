@@ -23,7 +23,7 @@ Please feel free to enjoy my newly deployed web applications:
 
 **MEDS - Official Website** the official website for NYC psych band **Meds**. Built entirely in React.js and NODE.js.
 - [MEDS](https://medsmusic.com/)
-- 
+  
 **SMOKE** my intellectual property focused social network for creatives built using the MERN Stack (MongoDB / Express.js / Node.js / React).
 - [SMOKE](https://smokeapp-4be26bed9b46.herokuapp.com/)
 
