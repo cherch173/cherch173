@@ -5,7 +5,7 @@
 ***
 ***
 ### I'm **Brian**.
-#### Here's my [LinkedIn](https://www.linkedin.com/in/bcherchiglia)
+#### Here's my [LinkedIn](https://www.linkedin.com/in/bcherchiglia) and my [Portfolio.](https://bcportfolio.surge.sh)
 
 <!-- ![Image](https://avatars.githubusercontent.com/u/130800271?v=4) -->
 
