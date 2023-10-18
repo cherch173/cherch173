@@ -42,8 +42,7 @@ and more.
 ***
 ***
 
-- 🔭 I’m currently working on expanding my portfolio and diversifying my arsenal of frameworks and languages.
-- 🌱 I’m currently learning React Native & TypeScript. I'm also delving into Machine Learning and AI.
+- 🔭 I’m currently learning Machine Learning and AI through IBM's Graduate Certification Program
 - 🤔 I’m looking for help with finding my first full-time role in Software Engineering outside of freelancing.
 - 📫 How to reach me: [EMAIL](mailto:b.cherchiglia@gmail.com)
 - ⚡ Fun fact: I adore vintage guitars, love soul food, and make a mean pourover (black, no sugar).
